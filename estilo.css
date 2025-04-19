@@ -75,7 +75,7 @@ html body.template-checkout .check-out-right #cartx-section-checkout-cost-detail
 
   /* Remover partes do checkout original */
 
-  .page-width, .announcement-section, .bottom-form-content-new, .terms-text, .on-desk::after, .checkout-cont::after {
+  .page-width, .announcement-section, .bottom-form-content-new, /* .terms-text, */ .on-desk::after, .checkout-cont::after {
       display: none !important;
   }
 
